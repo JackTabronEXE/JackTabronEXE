@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JackTabronEXE
-- 👀 I’m interested in learning new skills!
-- 🌱 I’m currently learning Python
+- 👋 Kia Ora, I’m @JackTabronEXE full stack developer
+- 👀 I’m always interested in learning new tech!
+- 🌱 I’m currently wanting to get into all things Shopify
 - 📫 How to reach me jacktabron@gmail.com
 
 <!---
